@@ -4,11 +4,9 @@
     font-size: 48px;
     left: 750px;
 }
-
 .txt:hover {
     transition: .4s;
     color:plum; 
-
 }
 
 .txt2 {
